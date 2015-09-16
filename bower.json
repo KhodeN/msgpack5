@@ -1,0 +1,14 @@
+{
+  "name": "msgpack5-bower",
+  "main": "dist/msgpack5.min.js",
+  "version": "3.1.0",
+  "description": "bower package for msgpack",
+  "license": "MIT",
+  "homepage": "http://msgpack.org/",
+   "ignore": [
+    "**/.*",
+    "benchmarks",
+    "lib",
+    "test",
+  ]
+}
